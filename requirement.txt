@@ -1,0 +1,1 @@
+serial opencv-python os docx2pdf subprocess logging vpype pillow numpy pdf2Image argparse 
