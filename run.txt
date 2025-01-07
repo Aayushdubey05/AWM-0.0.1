@@ -1,0 +1,2 @@
+python main.py --input "input_file.pdf/docx/jpg" --output "output_folder" --feed-rate 2000 --z-up 2.0 --z-down 0.0
+  
